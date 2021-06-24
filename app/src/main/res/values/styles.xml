@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.JWTApplication.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="Base.Widget.Design.TabLayout" parent="android:Widget">
+        <item name="tabBackground">@drawable/tabitem</item>
+
+    </style>
+</resources>
